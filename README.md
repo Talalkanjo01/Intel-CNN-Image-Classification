@@ -1,7 +1,7 @@
 # Intel Image Classification with CNN
 
 
-![Accuracy Plot](Intel CNN Classification.png)
+![Intel CNN Classification](Intel_CNN_Classification.png)
 
 
 ## Project Description
