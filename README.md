@@ -14,7 +14,7 @@ The aim is to classify 6 different scene categories (Buildings, Forest, Glacier,
 - Test: ~14,000 images  
 - Classes: Buildings, Forest, Glacier, Mountain, Sea, Street
 
-![görsel](görsel.png)
+![Görsel](Görsel.png)
 
 ## Methodology
 - Data preprocessing with ImageDataGenerator  
