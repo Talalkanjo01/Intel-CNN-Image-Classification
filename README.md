@@ -32,5 +32,5 @@ The aim is to classify 6 different scene categories (Buildings, Forest, Glacier,
 - Eigen-CAM visualizations  
 
 ## Files
-- Kaggle Notebook: [Intel CNN Notebook](https://www.kaggle.com/YOUR_LINK_HERE)
+- Kaggle Notebook: [Intel CNN Notebook]([https://www.kaggle.com/YOUR_LINK_HERE](https://www.kaggle.com/code/talalkanjo/akbankderin-renmebootcamp-deneme-2))
 - Saved model: `intel_cnn_model.h5`
