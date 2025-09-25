@@ -1,5 +1,9 @@
 # Intel Image Classification with CNN
 
+
+![Accuracy Plot](Intel CNN Classification.png)
+
+
 ## Project Description
 This project was developed as part of the Akbank Deep Learning Bootcamp.  
 The aim is to classify 6 different scene categories (Buildings, Forest, Glacier, Mountain, Sea, Street) using a Convolutional Neural Network (CNN).
