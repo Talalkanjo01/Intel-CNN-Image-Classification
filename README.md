@@ -13,7 +13,7 @@ The aim is to classify 6 different scene categories (Buildings, Forest, Glacier,
 - Train: ~25,000 images  
 - Test: ~14,000 images  
 - Classes: Buildings, Forest, Glacier, Mountain, Sea, Street
-
+![Exmaple](görsel.png)
 ## Methodology
 - Data preprocessing with ImageDataGenerator  
 - Data augmentation: rotation, shifting, zoom, horizontal flip  
@@ -24,6 +24,7 @@ The aim is to classify 6 different scene categories (Buildings, Forest, Glacier,
 - Accuracy after 10 epochs: ~75%  
 - Accuracy after 20 epochs: ~82%  
 - Loss and accuracy curves included in the notebook.  
+![Accuracy and Loss](accuracy_loss.png)
 
 ## Hyperparameter Tuning
 | Learning Rate | Val. Accuracy |
@@ -32,8 +33,10 @@ The aim is to classify 6 different scene categories (Buildings, Forest, Glacier,
 | 0.0005        | ~80% |
 
 ## Additional Analysis
-- Confusion Matrix  
-- Eigen-CAM visualizations  
+- Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+- Eigen-CAM visualizations
+![Eigen-CAM](eigen_cam.png) 
 
 ## Files
 - Kaggle Notebook: [Intel CNN Notebook](https://www.kaggle.com/code/talalkanjo/akbankderin-renmebootcamp-deneme-2)
